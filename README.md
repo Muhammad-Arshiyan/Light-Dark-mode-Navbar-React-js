@@ -1,12 +1,35 @@
-# React + Vite
+# React Navbar with Light/Dark Mode 🌗
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple and responsive navigation bar built with **React.js**. It features a toggle switch to switch between **light** and **dark** mode.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Responsive navigation bar
+- 🌗 Light and dark mode support
+- 🧠 React functional components and hooks
+- 💅 Styled with CSS (or Tailwind/Bootstrap - choose one)
 
-## Expanding the ESLint configuration
+## 🔧 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- CSS
+- JavaScript (ES6+)
+
+## 📸 Preview
+
+### Light Mode
+
+![Light Mode](./screenshots/light-mode.png)
+
+### Dark Mode
+
+![Dark Mode](https://user-images.githubusercontent.com/your-username/image-id.png)
+> Make sure to include these screenshots in a `screenshots/` folder.
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/your-username/react-navbar-darkmode.git
+cd react-navbar-darkmode
+npm install
+npm start
