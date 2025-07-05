@@ -19,17 +19,11 @@ This project is a simple and responsive navigation bar built with **React.js**. 
 
 ### Light Mode
 
-![Light Mode](./screenshots/light-mode.png)
+![Light Mode]<img width="1366" height="639" alt="Image" src="https://github.com/user-attachments/assets/88a3b838-118e-4a57-8e5b-88adadc090f4" />
 
 ### Dark Mode
 
-![Dark Mode](https://user-images.githubusercontent.com/your-username/image-id.png)
+![Dark Mode]<img width="1364" height="641" alt="Image" src="https://github.com/user-attachments/assets/d0139307-2b4f-4686-9510-791ad5681d66" />
 > Make sure to include these screenshots in a `screenshots/` folder.
 
-## 🛠️ Installation
 
-```bash
-git clone https://github.com/your-username/react-navbar-darkmode.git
-cd react-navbar-darkmode
-npm install
-npm start
