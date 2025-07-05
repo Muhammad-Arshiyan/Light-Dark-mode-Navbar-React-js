@@ -7,8 +7,7 @@ This project is a simple and responsive navigation bar built with **React.js**. 
 - ✅ Responsive navigation bar
 - 🌗 Light and dark mode support
 - 🧠 React functional components and hooks
-- 💅 Styled with CSS (or Tailwind/Bootstrap - choose one)
-
+- 💅 Styled with CSS
 ## 🔧 Tech Stack
 
 - React.js
@@ -19,11 +18,11 @@ This project is a simple and responsive navigation bar built with **React.js**. 
 
 ### Light Mode
 
-![Light Mode]<img width="1366" height="639" alt="Image" src="https://github.com/user-attachments/assets/88a3b838-118e-4a57-8e5b-88adadc090f4" />
+<img width="1366" height="639" alt="Image" src="https://github.com/user-attachments/assets/88a3b838-118e-4a57-8e5b-88adadc090f4" />
 
 ### Dark Mode
 
-![Dark Mode]<img width="1364" height="641" alt="Image" src="https://github.com/user-attachments/assets/d0139307-2b4f-4686-9510-791ad5681d66" />
+<img width="1364" height="641" alt="Image" src="https://github.com/user-attachments/assets/d0139307-2b4f-4686-9510-791ad5681d66" />
 
 
 
