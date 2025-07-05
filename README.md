@@ -1,6 +1,6 @@
 # React Navbar with Light/Dark Mode 🌗
 
-This project is a simple and responsive navigation bar built with **React.js**. It features a toggle switch to switch between **light** and **dark** mode.
+This project is a simple navigation bar built with **React.js**. It features a toggle switch to switch between **light** and **dark** mode.
 
 ## 🚀 Features
 
