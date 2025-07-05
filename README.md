@@ -24,6 +24,6 @@ This project is a simple and responsive navigation bar built with **React.js**. 
 ### Dark Mode
 
 ![Dark Mode]<img width="1364" height="641" alt="Image" src="https://github.com/user-attachments/assets/d0139307-2b4f-4686-9510-791ad5681d66" />
-> Make sure to include these screenshots in a `screenshots/` folder.
+
 
 
