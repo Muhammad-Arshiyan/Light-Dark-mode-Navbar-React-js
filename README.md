@@ -4,7 +4,6 @@ This project is a simple and responsive navigation bar built with **React.js**. 
 
 ## 🚀 Features
 
-- ✅ Responsive navigation bar
 - 🌗 Light and dark mode support
 - 🧠 React functional components and hooks
 - 💅 Styled with CSS
