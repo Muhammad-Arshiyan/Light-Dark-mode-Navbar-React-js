@@ -17,11 +17,11 @@ This project is a simple navigation bar built with **React.js**. It features a t
 
 ### Light Mode
 
-<img width="100%" height="639" alt="Image" src="https://github.com/user-attachments/assets/88a3b838-118e-4a57-8e5b-88adadc090f4" />
+![Image](https://github.com/user-attachments/assets/55750590-fa24-452f-bb0f-9397cffcf54f)
 
 ### Dark Mode
 
-<img width="100%" height="641" alt="Image" src="https://github.com/user-attachments/assets/d0139307-2b4f-4686-9510-791ad5681d66" />
+![Image](https://github.com/user-attachments/assets/1eb67139-1949-4b1e-89c8-cfe5ed25f143)
 
 
 
